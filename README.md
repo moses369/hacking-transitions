@@ -18,7 +18,7 @@
 
 ## What is the *Hacking Tranistions* Application?
 
-Hacking transitions was a `10 person group project`. This project was a brief `1-week sprint` where our team tried to complete an MVP for an external user *Mag Rosario*.
+Hacking transitions was a `10 person group project`. This project was 3-weeks long split into `1-week sprints` where our team tried to complete an MVP for an external user *Mag Rosario*.
 
 Some goals we had was to render a design similar to that of the Galvanize program. Have full functioning sections utilizing all CRUD operations allowing the ability to fully manipulate any section the user see. Another goal was to add in [animate.js](https://animejs.com) animations to give a little more life to the project.
 
