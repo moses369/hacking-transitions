@@ -2,7 +2,7 @@
 
 [Deployed Site](galvanize-transitions.onrender.com)
 
-- To access admin portal use: Password/Username: 'admin4'
+- To access admin portal use: Password/Username: 'Admin1'
 - To access student portal use: Password/Username: 'student4'
 
 [MCSP-13 Presentation](https://drive.google.com/file/d/1t4cZxz5oCqSZG4gyADg2ADRblIMQFjSB/view?usp=share_link)
